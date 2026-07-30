@@ -59,6 +59,8 @@ The dashboard provides visual analysis of:
 - Campaigns by Age Group
 - Gender-Based Analysis
 - Geographic Performance
+## Dashboard Preview
+![Social Media Marketing Excel Dashboard](social-media-dashboard.png)
 
 ## Project File
 
